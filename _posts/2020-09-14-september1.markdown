@@ -1,0 +1,101 @@
+---
+layout: post
+title: Genetic Control of Intelligence by Christa Caggiano
+---
+<!--excerpt-->
+The contribution of genetics to intelligence has been studied since at
+least the 19th century when [Francis Galton](https://psychology.jrank.org/pages/267/Sir-Francis-Galton.html)
+popularized studying the heritability of behavioral traits. With the
+invention of low-cost genetic tests and the growing size of biobanks,
+rigorous scientific research on the genetic origin of intelligence has
+flourished in recent years.
+
+[Landmark](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3817931/) twin
+studies in the late 20th and early 21st centuries were the first to
+elucidate the role of genetics in intelligence. [These](https://doi.apa.org/doiLanding?doi=3D10.1037%2F0003-066X.51.2.77) [studies](https://onlinelibrary.wiley.com/doi/abs/10.1002/neu.10160) estimate the
+heritability of intelligence between 50 and 70% (for context, the
+heritability of height is estimated to be [~80%).](https://www.nature.com/articles/d41586-019-01157-y#:~:text=3DFor%20height%=
+2C%20Visscher%20and%20colleagues,environmental%20factors%2C%20such%20as%20n=
+utrition.)
+[Some
+more recent](<https://www.nature.com/articles/mp2014105>) estimates even
+suggest that the heritability may be closer to 80%. Interestingly, some
+twin studies have purported to show what is now referred to as the [Wilson
+Effect](<https://www.cambridge.org/core/journals/twin-research-and-human-genetics/a=
+rticle/wilson-effect-the-increase-in-heritability-of-iq-with-age/FF406CC4CF=
+286D78AF72C9E7EF9B5E3F>),
+where the heritability of intelligence about 20% in infancy, but increases
+to 80% in adulthood. [A particular strength of twin studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4919929/) is their [perceived](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4411885) ability to control
+for any environmental differences, which has long been considered the
+primary factor in determining intelligence. For example, [twin studies have
+estimated](https://www.mun.ca/biology/scarr/IQ_Correlations.html) that
+adoptive siblings are no more similar in IQ than random individuals but
+that biological siblings=E2=80=99 IQs are correlated (average R2 ~0.5). Tog=
+ether,
+these studies were the first evidence that intelligence is strongly
+controlled by genetics.
+
+Modern work has transitioned from twin studies to the GWAS. Intelligence
+GWASes typically do not measure IQ, as did the twin studies, but
+educational attainment, which has been shown to be [highly correlated with I=
+Q](https://www.sciencedirect.com/science/article/abs/pii/S0160289615000355#:~=
+:text=3DThey%20found%20a%20positive%20correlation%20between%20years%20of%20=
+schooling%20and%20IQ%20scores.&text=3DPeople%20with%20higher%20educational%=
+20levels,(g)%20may%20be%20different.).
+This switch is because IQ is expensive and time-consuming to measure, but
+educational attainment is a standard demographic question in many biobanks.
+Overall, GWAS studies have failed to find the same level of heritability
+that twin studies have. [The most recent 1.1 million person GWAS](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6393768/) estimated SNP-based
+heritability at 0.3% and found that polygenic scores explained between
+10-13% of the variance in educational attainment. Importantly, these
+polygenic scores did not translate well to African Americans, which
+explained only 6% of the variance in educational attainment in this
+population. Additionally, the performance of the polygenic score in this
+paper was lower than predictions based on parental socioeconomic status.
+Educational attainment GWASes may be underpowered to find the same level of
+heritability as twin studies, but overall indicate the highly polygenic
+nature of intelligence.
+
+There may also be substantial drawbacks to the way we are understanding and
+studying intelligence. Firstly, both twin studies and GWAS may not
+adequately control for [assortative mating](https://www.britannica.com/science/assortative-mating). Furthermore, it is
+a strong assumption that the environment does not vary between even the
+closest monozygotic twins. [Even within one household](https://doi.apa.org/doiLanding?doi=3D10.1037/0003-066X.51.2.77), siblings
+will be exposed to different trama and social experiences that can have
+lasting impacts on intelligence. Additionally, the [maternal in-utero
+environment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4440732/) is a
+largely unstudied environment that can have a long-term effect on human
+development. Lastly, the ["nature of nurture"](https://science.sciencemag.org/content/359/6374/424), or the argument that
+your parent's non-transmitted alleles strongly affect your environm=
+ent,
+could offer an explanation for the high heritability observed in twin
+studies that are not recapitulated in polygenic scores.
+
+
+Both educational attainment and GWAS also rely on measures of testing that
+may not be indicative of actual intelligence. For example, performance on
+IQ tests may be biased by socioeconomic status or [culture](https://journals.sagepub.com/doi/10.1177/1073191105276674). Similarly,
+educational attainment is known to vary widely by opportunity and ability
+to pay: master's programs (which would represent additional educati=
+onal
+attainment) are notoriously expensive in the US. Even heritability
+estimates have been shown to [vary between socioeconomic status](https://journals.sagepub.com/doi/10.1046/j.0956-7976.2003.psci_1475.x). In
+short, education and intelligence measurements are nearly impossible to
+separate from the environment, emphasizing the need to make careful and
+precise conclusions in the interpretation of a study.
+
+Finally, it is important to note that the study of the genetics of
+intelligence should always be considered in light of its social
+implications. The field has always been controversial. [Nazi eugenicists
+were among the first to devise IQ tests](https://via.library.depaul.edu/cgi/viewcontent.cgi?article=3D1270&context=
+=3Dlaw-review)
+and more recently, the American alt-right has utilized claims about the
+genetic basis of intelligence to [justify their belief in white supremacy](https://www.splcenter.org/fighting-hate/extremist-files/individual/richard=
+-lynn).
+Beyond the political, the genetic control of intelligence is unsettling
+because it provides a stage for the nature vs nurture debate. The
+implications of this debate can challenge our understanding of what it
+means to be human and what it means to create an equitable society. While
+there Something of this importance requires thoughtful and thorough
+science.
+

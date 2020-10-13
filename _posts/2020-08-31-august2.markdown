@@ -1,0 +1,13 @@
+---
+layout: post
+title: SUMMARY by Albert Xue
+---
+<!--excerpt-->
+As a counterpoint to Elaine’s summary, I thought it would be interesting to read about a specific interaction between race and medicine. I chose this [article](https://dash.harvard.edu/bitstream/handle/1/3372911/Brandt_Racism.pdf?sequence=1&isAllowed=y), a 1978 review of the Tuskegee Syphilis Study that highlighted how a foundation of eugenic thought and Social Darwinism in medicine allowed for a thirty-year-long medical exploitation of African-Americans that only ended in 1972.
+
+At the time of the Tuskegee Syphilis Study’s beginnings (~1929), African-Americans were cast as overly sexual and “primitive” who were both especially prone to sexually transmitted diseases and would, due to personality factors, be unwilling to seek treatment for STDs. As a result, African-Americans were seen as perfect subjects in which to observe the long-term effects of untreated syphilis despite the prevailing opinion that treatment “markedly diminishes the risk of syphilis”; in fact, the same doctor who noted that “treatment markedly diminishes the risk of syphilis” and slows the progression of the disease also pushed the Tuskegee study forwards, calling the study “of immense value”.
+
+Subjects were recruited from Macon County, Alabama, which had been previously noted to have a high rate of syphilis. However, the canvassers had difficulties finding willing subjects; in fact, they were only able to obtain cooperation with the offer of treatment (contradicting the idea that African-Americans would not be inclined to seek treatment for syphilis) and in doing so found overall rates of syphilis to be well below expectation. However, experimenters had no intention of treating the men; subjects were given drugs known to be noneffective and were simply observed to understand the long-term effects of syphilis. Even when penicillin became widely available as the preferred syphilis treatment by the early 1950s, none of the subjects were given penicillin, and over thirty years none of the men were ever given syphilitic treatment. By the time the study ended in 1972, at least twenty-eight, but possibly over 100, had died directly from advanced syphilitic lesions; seventy-four of the test subjects were still alive.
+
+Overall the Tuskegee Syphilis Study represents a counterexample to the idea of value-free science, highlighted a “need for greater vigilance in assessing the specific ways in which social values and attitudes affect professional behavior”, and served as a direct cause of mistrust of both government and medicine in the African-American community today. 
+
